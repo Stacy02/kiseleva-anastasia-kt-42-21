@@ -11,7 +11,7 @@
         "projectName": "kiseleva nastia 42 21",
         "projectPath": "C:\\Users\\nasty\\source\\repos\\kiseleva-anastasia-kt-42-21\\kiseleva nastia 42 21.csproj",
         "packagesPath": "C:\\Users\\nasty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nasty\\source\\repos\\kiseleva-anastasia-kt-42-21\\obj\\",
+        "outputPath": "C:\\Users\\nasty\\Source\\Repos\\kiseleva-anastasia-kt-42-21\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nasty\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.13, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

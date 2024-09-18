@@ -1,0 +1,36 @@
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\kiseleva nastia 42 21.csproj.AssemblyReference.cache
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\kiseleva nastia 42 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\kiseleva nastia 42 21.AssemblyInfoInputs.cache
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\kiseleva nastia 42 21.AssemblyInfo.cs
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\kiseleva nastia 42 21.csproj.CoreCompileInputs.cache
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\kiseleva nastia 42 21.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\kiseleva nastia 42 21.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\kiseleva nastia 42 21.sourcelink.json
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\appsettings.json
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\kiseleva nastia 42 21.exe
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\kiseleva nastia 42 21.deps.json
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\kiseleva nastia 42 21.runtimeconfig.json
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\kiseleva nastia 42 21.dll
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\kiseleva nastia 42 21.pdb
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\NLog.dll
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\staticwebassets\msbuild.kiseleva nastia 42 21.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\staticwebassets\msbuild.build.kiseleva nastia 42 21.props
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.kiseleva nastia 42 21.props
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.kiseleva nastia 42 21.props
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\scopedcss\bundle\kiseleva nastia 42 21.styles.css
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\kiseleva.D7191D8D.Up2Date
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\kiseleva nastia 42 21.dll
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\refint\kiseleva nastia 42 21.dll
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\kiseleva nastia 42 21.pdb
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\kiseleva nastia 42 21.genruntimeconfig.cache
+C:\Users\nasty\Source\Repos\kiseleva-anastasia-kt-42-21\obj\Debug\net8.0\ref\kiseleva nastia 42 21.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\kiseleva nastia 42 21.props" />
+</Project>
