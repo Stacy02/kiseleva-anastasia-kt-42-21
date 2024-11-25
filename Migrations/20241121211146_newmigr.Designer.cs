@@ -11,8 +11,8 @@ using kiseleva_nastia_42_21.Database;
 namespace kiseleva_nastia_42_21.Migrations
 {
     [DbContext(typeof(KiselevaDbContext))]
-    [Migration("20241121122322_init")]
-    partial class init
+    [Migration("20241121211146_newmigr")]
+    partial class newmigr
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
